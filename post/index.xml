@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Dane Turnbull</title>
+    <link>https://danem2.github.io/Dane_Portfolio.com/post/</link>
+    <description>Recent content in Projects on Dane Turnbull</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://danem2.github.io/Dane_Portfolio.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SQL to Power BI</title>
+      <link>https://danem2.github.io/Dane_Portfolio.com/post/project3/</link>
+      <pubDate>Fri, 02 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://danem2.github.io/Dane_Portfolio.com/post/project3/</guid>
+      <description>This is an example of providing important insights on hotel data:
+ Build a Database Analyze and Retrieve Data with SQL Connect Power BI to a Database Visualize Data in Power BI  Used SQL to Join multiple years of hotel data together. Sorted the data to extract the relevant information. Imported aggregated data into Power BI. Created an Interactive Dashboard.
+GitHub Repository
+  </description>
+    </item>
+    
+    <item>
+      <title>Web Traffic Forecasting</title>
+      <link>https://danem2.github.io/Dane_Portfolio.com/post/project1/</link>
+      <pubDate>Wed, 23 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://danem2.github.io/Dane_Portfolio.com/post/project1/</guid>
+      <description>This project looks at the problem of forecasting future values of time-series data. Wikipedia has over 145,000 articles and their view counts available to analyze. Following the Exploratory Data Analysis (EDA) process I was able to develop an Auto-Regressive Integrated Moving Average (ARIMA) model that showed a prediction of view counts for the following 45 – 60 days. Web forecasting is gaining popularity and has many applications including load balancing for cloud services, and understanding user behavior.</description>
+    </item>
+    
+    <item>
+      <title>Multiple Regression in Python</title>
+      <link>https://danem2.github.io/Dane_Portfolio.com/post/project2/</link>
+      <pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://danem2.github.io/Dane_Portfolio.com/post/project2/</guid>
+      <description>Performed a multiple regression analysis on South Korea&amp;rsquo;s GDP growth. South Korea in the 1950s came out of the Korean War, which left it&amp;rsquo;s country ravaged and in extreme poverty. However, South Korea would go through one most significant economic developments the World has seen, taking it from a country in poverty to one of the top 15 economies in the World today.
+GitHub Repository
+   </description>
+    </item>
+    
+  </channel>
+</rss>
